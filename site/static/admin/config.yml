@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: AbjorGit/ # Path to your Github repository
+  repo: # Path to your Github repository
   branch: master # Branch to update
   publish_mode: editorial_workflow
 
