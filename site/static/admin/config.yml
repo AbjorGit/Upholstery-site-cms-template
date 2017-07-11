@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: # Path to your Github repository
+  repo: bjorGit/https://github.com/AbjorGit/Upholstery-site-cms-template  # Path to your Github repository
   branch: master # Branch to update
   publish_mode: editorial_workflow
 
