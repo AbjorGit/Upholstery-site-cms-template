@@ -1,8 +1,9 @@
 backend:
   name: github
-  repo: # Path to your Github repository
+  repo: bjorGit/https://github.com/AbjorGit/Upholstery-site-cms-template # Path to your Github repository
   branch: master # Branch to update
   publish_mode: editorial_workflow
+  
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
